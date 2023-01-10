@@ -1,4 +1,4 @@
-package com.example.luccodeliveryandroid.model;
+package com.example.spontiniMenu.model;
 
 import java.io.Serializable;
 import java.util.ArrayList;

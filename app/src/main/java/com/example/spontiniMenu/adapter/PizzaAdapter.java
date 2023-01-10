@@ -1,4 +1,4 @@
-package com.example.luccodeliveryandroid.adapter;
+package com.example.spontiniMenu.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,9 +9,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.luccodeliveryandroid.R;
-import com.example.luccodeliveryandroid.RecyclerViewInterface;
-import com.example.luccodeliveryandroid.model.Pizza;
+import com.example.spontiniMenu.R;
+import com.example.spontiniMenu.RecyclerViewInterface;
+import com.example.spontiniMenu.model.Pizza;
 
 public class PizzaAdapter extends RecyclerView.Adapter<PizzaAdapter.ProjectViewHolder> implements RecyclerViewInterface {
     private final Pizza[] pizzas;

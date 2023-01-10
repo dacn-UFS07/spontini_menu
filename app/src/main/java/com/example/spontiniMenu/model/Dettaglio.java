@@ -1,4 +1,4 @@
-package com.example.luccodeliveryandroid.model;
+package com.example.spontiniMenu.model;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
@@ -7,8 +7,8 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.luccodeliveryandroid.adapter.DettaglioAdapter;
-import com.example.luccodeliveryandroid.R;
+import com.example.spontiniMenu.adapter.DettaglioAdapter;
+import com.example.spontiniMenu.R;
 
 public class Dettaglio extends AppCompatActivity {
     private TextView textView;

@@ -1,4 +1,4 @@
-package com.example.luccodeliveryandroid;
+package com.example.spontiniMenu;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -12,9 +12,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.luccodeliveryandroid.adapter.PizzaAdapter;
-import com.example.luccodeliveryandroid.model.Dettaglio;
-import com.example.luccodeliveryandroid.model.Pizza;
+import com.example.spontiniMenu.adapter.PizzaAdapter;
+import com.example.spontiniMenu.model.Dettaglio;
+import com.example.spontiniMenu.model.Pizza;
+import com.example.spontiniMenu.R;
+
 
 import java.util.ArrayList;
 

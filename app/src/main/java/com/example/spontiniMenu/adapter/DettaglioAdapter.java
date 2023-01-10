@@ -1,4 +1,4 @@
-package com.example.luccodeliveryandroid.adapter;
+package com.example.spontiniMenu.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.luccodeliveryandroid.R;
+import com.example.spontiniMenu.R;
 
 public class DettaglioAdapter extends RecyclerView.Adapter<DettaglioAdapter.ProjectViewHolder>{
     private final String[] piatti;

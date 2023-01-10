@@ -1,4 +1,4 @@
-package com.example.luccodeliveryandroid;
+package com.example.spontiniMenu;
 
 import org.junit.Test;
 
